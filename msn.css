@@ -368,3 +368,7 @@ main a {
   color: rgb(77, 77, 77);
   margin-left: 2px;
 }
+
+footer {
+  background-color: #f4f4f2;
+}
